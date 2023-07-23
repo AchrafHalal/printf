@@ -20,7 +20,7 @@
 
 /**
  * struct fmt - Struct op
- *
+ *it should be allwod in draft
  * @fmt: The format.
  * @fn: The function associated.
  */
