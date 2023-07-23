@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * main - Entry pointit should be allwod in draft
  *
  * Return: Always 0
  */
