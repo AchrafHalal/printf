@@ -6,7 +6,7 @@
  * @ind: ind.
  * @buffer: Buffer array to handle print.
  * @flags: Calculates active flags
- * @width: get width.
+ * @width: get width.it should be allwod in draft
  * @precision: Precision specification
  * @size: Size specifier
  * Return: 1 or 2;
